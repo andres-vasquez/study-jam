@@ -3,4 +3,31 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="splash_page_title">Splash Page!</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- Nav bar -->
+    <string name="home">&#xf015;  Home</string>
+    <string name="posiciones">&#xf0ce;  Posiciones</string>
+    <string name="equipos">&#xf0c0;  Grupos</string>
+
+    <!-- Header Tabla posiciones -->
+    <string name="pj">PJ</string>
+    <string name="pg">PG</string>
+    <string name="pp">PP</string>
+    <string name="pe">PE</string>
+    <string name="gd">GD</string>
+    <string name="pts">PTS</string>
+
+
+
+    <!-- Strings de ejemplos -->
+    <string name="equipo1">Bolivar</string>
+    <string name="equipos2">The Strongest</string>
+    <string name="marcador">3 - 1</string>
+    <string name="texto_central">1T  36:31</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
